@@ -16,7 +16,7 @@ Muitas pessoas me perguntam por onde começar a trabalhar com "DevOps" e sempre 
 
 ### Colaboração
 
-O texto não é 100% autoral, ou seja, imagine esse texto como uma colagem de muitas ideias e materiais produzidos por outras pessoas. Ele provavelmente sofrerá alteração ao longo do tempo. Isso que dizer que se você acha que algo deve ser colocado aqui, modifique [esse arquivo](https://github.com/gomex/gomex.me/blob/master/content/post/carreira-devops.md) e submeta um PR no github, vamos discutir nos comentários e aceitar a colaboração :)
+O texto não é 100% autoral, ou seja, imagine esse texto como uma colagem de muitas ideias e materiais produzidos por outras pessoas. Ele provavelmente sofrerá alteração ao longo do tempo. Isso quer dizer que se você acha que algo deve ser colocado aqui, modifique [esse arquivo](https://github.com/gomex/gomex.me/blob/master/content/post/carreira-devops.md) e submeta um PR no github, vamos discutir nos comentários e aceitar a colaboração :)
 
 ### DevOps é carreira?
 
